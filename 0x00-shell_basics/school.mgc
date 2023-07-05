@@ -1,2 +1,2 @@
 #!/bin/bash
-0   string   SCHOOL   School data file
+file -m school.mgc <path_to_school_data_file>
